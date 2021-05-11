@@ -2,6 +2,12 @@
 
 Take STDIN and convert to/from morse code to text. For example:
 
-`echo hello world | morse-cli`
+```shell
+echo hello world | morse-cli
+```
+
 or
-`echo .... . .-.. .-.. --- / .-- --- .-. .-.. -.. | morse-cli`
+
+```shell
+echo .... . .-.. .-.. --- / .-- --- .-. .-.. -.. | morse-cli
+```
